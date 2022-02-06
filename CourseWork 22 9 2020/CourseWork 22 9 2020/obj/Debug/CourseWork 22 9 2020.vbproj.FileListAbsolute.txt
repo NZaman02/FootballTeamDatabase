@@ -1,0 +1,11 @@
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\obj\Debug\CourseWork 22 9 2020.vbprojAssemblyReference.cache
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\obj\Debug\CourseWork_22_9_2020.Resources.resources
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\obj\Debug\CourseWork 22 9 2020.vbproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\obj\Debug\CourseWork 22 9 2020.vbproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\bin\Debug\CourseWork 22 9 2020.exe.config
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\bin\Debug\CourseWork 22 9 2020.exe
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\bin\Debug\CourseWork 22 9 2020.pdb
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\bin\Debug\CourseWork 22 9 2020.xml
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\obj\Debug\CourseWork 22 9 2020.exe
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\obj\Debug\CourseWork 22 9 2020.xml
+C:\Users\Home\OneDrive\Nadvi\A Level\Computing\Visual Basic\CourseWork 22 9 2020\CourseWork 22 9 2020\obj\Debug\CourseWork 22 9 2020.pdb
